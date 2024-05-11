@@ -1,6 +1,6 @@
-# React + Vite
+# Test Github Pages
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Test to review the process of using gh-pages in npm as a deployment for static pages
 
 Currently, two official plugins are available:
 
